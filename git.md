@@ -16,3 +16,5 @@
 *git reset --hard HEAD~100*
 *git reset --hard 96d60*
 - **git reflog**：记录每一次命令
+- **git checkout**：撤销修改
+*git checkout -- readme.txt*
